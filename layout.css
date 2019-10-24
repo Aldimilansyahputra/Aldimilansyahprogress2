@@ -169,7 +169,7 @@ nav a:hover::before {
 }
 .column2 {
   float: left;
-  width: 33.33%;
+  width: 25%;
   background: none;
 }
 .row:after {
