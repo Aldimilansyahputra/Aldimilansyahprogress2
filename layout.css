@@ -102,6 +102,7 @@ table{
 .container {
   width: 80%;
   margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .container2 {
   margin-top: 50px;
